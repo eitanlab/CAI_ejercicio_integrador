@@ -42,12 +42,16 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Alumno.cs" />
+    <Compile Include="AlumnoExistenteException.cs" />
     <Compile Include="Bedel.cs" />
     <Compile Include="Class1.cs" />
     <Compile Include="Directivo.cs" />
     <Compile Include="Docente.cs" />
     <Compile Include="Empleado.cs" />
+    <Compile Include="EmpleadoExistenteException.cs" />
     <Compile Include="Facultad.cs" />
+    <Compile Include="ListadoAlumnosException.cs" />
+    <Compile Include="ListadoEmpleadosException.cs" />
     <Compile Include="Persona.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Salario.cs" />

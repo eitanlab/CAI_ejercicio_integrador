@@ -1,0 +1,10 @@
+C:\Users\eitan\Repositories\CAI\CAI_ejercicio_integrador\CAI-ejercicio-integrador\obj\Debug\CAI-ejercicio-integrador.csprojAssemblyReference.cache
+C:\Users\eitan\Repositories\CAI\CAI_ejercicio_integrador\CAI-ejercicio-integrador\obj\Debug\CAI-ejercicio-integrador.csproj.CoreCompileInputs.cache
+C:\Users\eitan\Repositories\CAI\CAI_ejercicio_integrador\CAI-ejercicio-integrador\bin\Debug\CAI-ejercicio-integrador.exe.config
+C:\Users\eitan\Repositories\CAI\CAI_ejercicio_integrador\CAI-ejercicio-integrador\bin\Debug\CAI-ejercicio-integrador.exe
+C:\Users\eitan\Repositories\CAI\CAI_ejercicio_integrador\CAI-ejercicio-integrador\bin\Debug\CAI-ejercicio-integrador.pdb
+C:\Users\eitan\Repositories\CAI\CAI_ejercicio_integrador\CAI-ejercicio-integrador\bin\Debug\Entidades.dll
+C:\Users\eitan\Repositories\CAI\CAI_ejercicio_integrador\CAI-ejercicio-integrador\bin\Debug\Entidades.pdb
+C:\Users\eitan\Repositories\CAI\CAI_ejercicio_integrador\CAI-ejercicio-integrador\obj\Debug\CAI-ejercicio-integrador.csproj.CopyComplete
+C:\Users\eitan\Repositories\CAI\CAI_ejercicio_integrador\CAI-ejercicio-integrador\obj\Debug\CAI-ejercicio-integrador.exe
+C:\Users\eitan\Repositories\CAI\CAI_ejercicio_integrador\CAI-ejercicio-integrador\obj\Debug\CAI-ejercicio-integrador.pdb

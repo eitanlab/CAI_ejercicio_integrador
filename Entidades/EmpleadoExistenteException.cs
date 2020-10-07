@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
-    public class Docente : Empleado
+    class EmpleadoExistenteException : Exception
     {
-        public override string GetNombreCompleto()
-        {
-            return "Docente " + Nombre;
-        }
+        public EmpleadoExistenteException() : base("El Empleado no existe") { }
     }
 }

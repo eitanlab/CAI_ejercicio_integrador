@@ -4,6 +4,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 16.0.30517.126
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAI-ejercicio-integrador", "CAI-ejercicio-integrador\CAI-ejercicio-integrador.csproj", "{C701E328-9CCD-4F46-93D3-95829CD55CDD}"
+	ProjectSection(ProjectDependencies) = postProject
+		{8B00E624-D31C-44D4-A5FB-DD8D4785CEFD} = {8B00E624-D31C-44D4-A5FB-DD8D4785CEFD}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{8B00E624-D31C-44D4-A5FB-DD8D4785CEFD}"
 EndProject
